@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hello! My name is [Your Name]. I am learning GitHub and version control to improve my coding skills.
+
+This is my first repository and I am excited to share my journey here.
